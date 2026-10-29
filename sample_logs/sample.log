@@ -1,0 +1,22 @@
+2026-10-24 08:00:01 INFO Server started successfully
+2026-10-24 08:00:05 INFO User admin logged in
+2026-10-24 08:05:12 WARNING Disk usage is above 80%
+2026-10-24 08:10:45 ERROR Database connection failed
+2026-10-24 08:12:30 INFO File uploaded successfully
+2026-10-24 08:15:00 ERROR Database connection failed
+2026-10-24 08:20:10 WARNING High memory usage detected
+2026-10-24 08:25:33 INFO User john logged in
+2026-10-24 08:30:00 ERROR File not found: config.yaml
+2026-10-24 08:35:47 WARNING Disk usage is above 80%
+2026-10-24 08:40:21 INFO Backup completed
+2026-10-24 08:45:09 ERROR Database connection failed
+2026-10-24 08:50:00 WARNING Slow response from server
+2026-10-24 08:55:18 INFO User admin logged out
+2026-10-24 09:00:00 ERROR Timeout while calling payment service
+2026-10-24 09:05:42 WARNING Disk usage is above 80%
+2026-10-24 09:10:00 INFO Scheduled job started
+2026-10-24 09:15:30 ERROR File not found: config.yaml
+THIS LINE IS NOT A VALID LOG ENTRY
+2026-10-24 09:20:00 INFO Scheduled job finished
+2026-10-24 09:25:00 DEBUG Cache cleared
+2026-10-24 09:30:00 ERROR Timeout while calling payment service
